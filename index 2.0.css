@@ -1,1 +1,7 @@
-
+body {font-family: Georgia, 'Times New Roman', Times, serif;
+      background: black;}
+.titulo {color: red;}
+#imagen-1, #imagen-2, #imagen-3 {width: 750;}
+*{font-family:'Times New Roman', Times, serif ;}
+/* hola como estas */
+.navbar{border: 1px brown solid    ;}
